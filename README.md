@@ -21,7 +21,7 @@ Era uma altura meio mediaval pois o país do Lyca está pouco desenvolvido, ent�
   - Instalar o C++ dentro do Visual studio comunity 2022 e clique em "Modificar" e existe uma opção chamada "Desenvolvimento para desktop com C++" e em baixo no canto inferior clique em modificar;
   - Depois vai a este tutorial para baixar o raylib (https://www.youtube.com/watch?v=UiZGTIYld1M&ab_channel=ProgrammingWithNick);
   - É só baixar este projeto;
-  - Para entrar no jogo é preciso entrar na pasta: debug -> x64 -> bom dia.exe
+  - Para entrar no jogo é preciso entrar na pasta: debug -> x64 -> bom dia.exe ou Executar dentro do Visual Studio Comunity
  
 ---
 
