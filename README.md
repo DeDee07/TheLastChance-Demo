@@ -35,4 +35,8 @@ Era uma altura meio mediaval pois o país do Lyca está pouco desenvolvido, ent�
 
 # Imagens do jogo
 
--
+- ![Aviso](imagens/Capturadeecrã2025-06-17110908.png)
+- ![Menu](imagens/Capturadeecra2025-06-17110923.png)
+- ![Tela de carragamento](imagens/Capturadeecra2025-06-17110937.png)
+- ![Dentro do jogo](imagens/Capturadeecra2025-06-17110958.png)
+- ![Tela de perdeu](imagens/Capturadeecra2025-06-17111009.png)
