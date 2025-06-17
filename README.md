@@ -1,5 +1,4 @@
-# The Last Chance - Demo
-# This Game developed by Dede07 
+# The Last Chance - Demo | This Game developed by Dede07 
 ---
 
 ## História do jogo
