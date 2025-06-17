@@ -4,7 +4,7 @@
 ## História do jogo
 Era uma altura meio mediaval pois o país do Lyca está pouco desenvolvido, então foi explorar uma frábica abandonada e encontra muitos desafios.
 
-## Personagens Princípais
+## Personagens
 - Personagem principal (Lyca)
 - Personagem secundário (Professor Vuro)
 
