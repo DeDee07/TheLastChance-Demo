@@ -30,3 +30,9 @@ Era uma altura meio mediaval pois o país do Lyca está pouco desenvolvido, ent�
 - Basicamente, é um jogo bem simples que é um quadrado vermelho a perseguir o jogador. Ou seja, não é a melhor experiência do mundo mas se quiseres baixar é só baixares o arquivos;
 - Os comandos são WASD;
 - Têm opções de línguagem;
+
+---
+
+# Imagens do jogo
+
+-
