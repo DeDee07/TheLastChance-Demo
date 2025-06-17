@@ -2,7 +2,7 @@
 ---
 
 ## História do jogo
-Era uma altura meio mediaval pois o pais do Lyca está muito pouco desenvolvido, então foi explorar uma frábica abandonada e encontra muitos desafios.
+Era uma altura meio mediaval pois o país do Lyca está muito pouco desenvolvido, então foi explorar uma frábica abandonada e encontra muitos desafios.
 
 ## Personagens Princípais
 Personagem principal - Lyca
